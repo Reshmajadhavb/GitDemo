@@ -8,6 +8,9 @@ public class AppiumTest {
 	public void Appiumlogin()
 	{
 		System.out.println("Appiumlogin");
+		System.out.println("Appiumlogin");
+		System.out.println("Appiumlogin");
+		System.out.println("Appiumlogin");
 	}
 	@Test
 	public void Appiumlogout()
