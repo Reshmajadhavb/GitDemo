@@ -21,5 +21,7 @@ public class RestApiTest {
 	@Test
 	public void apinewmethod()
 	{
-		System.out.println("apinewmethod");
+		System.out.println("apinewmethod1");
+		System.out.println("apinewmethod2");
+}
 }
