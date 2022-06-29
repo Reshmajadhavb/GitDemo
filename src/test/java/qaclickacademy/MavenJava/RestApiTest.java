@@ -13,6 +13,8 @@ public class RestApiTest {
 	public void apilogout()
 	{
 		System.out.println("apilogout");
+		System.out.println("apilogout1");
+		System.out.println("apilogout2");
 	}
 
 }
