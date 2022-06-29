@@ -15,6 +15,11 @@ public class RestApiTest {
 		System.out.println("apilogout");
 		System.out.println("apilogout1");
 		System.out.println("apilogout2");
+		System.out.println("apilogout3");
+		
 	}
-
+	@Test
+	public void apinewmethod()
+	{
+		System.out.println("apinewmethod");
 }
